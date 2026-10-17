@@ -1,0 +1,36 @@
+{
+ "id": "./",
+ "name": "Aemion's P.R",
+ "short_name": "Aemion's P.R",
+ "description": "শিক্ষার্থীদের জন্য SSC বোর্ড প্রশ্নের প্রগ্রেস রেকর্ডার · SSC board question progress recorder",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#161615",
+ "theme_color": "#161615",
+ "lang": "bn",
+ "dir": "ltr",
+ "categories": [
+  "education"
+ ],
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
